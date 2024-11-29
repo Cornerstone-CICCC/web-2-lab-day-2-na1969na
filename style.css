@@ -137,3 +137,7 @@ ul li:not(:last-child) {
 .modal button:hover {
   background-color: #333;
 }
+
+span {
+  font-weight: bold;
+}
